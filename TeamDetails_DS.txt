@@ -1,0 +1,14 @@
+﻿Fill in the details (should be same as those while registering for CNI Hackathon):
+
+
+Team Name:Akash & Tarun
+
+
+Team Member 1: (Assumed to be the team lead, by default)
+Name: Akash Yadav
+Email ID: akash22300@iiitnr.edu.in
+
+
+Team Member 2:
+Name: Tarun Kashyap
+Email ID: tarun22300@iiitnr.edu.in
